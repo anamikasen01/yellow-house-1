@@ -91,12 +91,11 @@
         <h3>Theme: AI and Education's Future</h3>
         <p><em>"Unlock the Potential of AI in Education"</em></p>
     </header>
-    
-    <section>
+ <section>
         <p><strong>Presented by:</strong> All Members of Yellow House</p>
     </section>
   <footer>
-     <div class="left">
+     <div class="right">
      <p>MD SAHAJAMAN HOQUE</p>
     <p>House Master</p>
      </div>
@@ -104,7 +103,7 @@
       <p>UJJOINY ROY</p>
        <p>House Coordinator</p>
     </div>
- <div class="right">
+ <div class="left">
  <p>MANAB KUMAR DEY</p>    <p>Principal</p>
      </div>
 </footer>
