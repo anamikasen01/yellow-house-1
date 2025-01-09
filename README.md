@@ -84,28 +84,23 @@
         }
     </style>
 </head>
-<body>
-    <header>
-        <h1>MOUNT LITERA ZEE SCHOOL BAHARAMPUR</h1>
-        <h2>YELLOW HOUSE WALL MAGAZINE 2025</h2>
-        <h3>Theme: AI and Education's Future</h3>
-        <p><em>"Unlock the Potential of AI in Education"</em></p>
+<body
+   <header>
+    <h1>MOUNT LITERA ZEE SCHOOL BAHARAMPUR</h1>
+    <h2>YELLOW HOUSE WALL MAGAZINE 2025</h2>      <h3>Theme: AI and Education's Future</h3>    <p><em>"Unlock the Potential of AI in Education"</em></p>
     </header>
- <section>
-        <p><strong>Presented by:</strong> All Members of Yellow House</p>
+ <section>       <p><strong>Presented by:</strong> All Members of Yellow House</p>
     </section>
   <footer>
-     <div class="right">
+   <div class="right">
      <p>MD SAHAJAMAN HOQUE</p>
     <p>House Master</p>
-     </div>
-      <div class="center">
+     </d <div class="center">
       <p>UJJOINY ROY</p>
        <p>House Coordinator</p>
-    </div>
- <div class="left">
- <p>MANAB KUMAR DEY</p>    <p>Principal</p>
-     </div>
+ </div>
+ <div class="left"> <p>MANAB KUMAR DEY</p>    <p>Principal</p>
+</div>
 </footer>
 </body>
 </html>
