@@ -95,8 +95,7 @@
     <section>
         <p><strong>Presented by:</strong> All Members of Yellow House</p>
     </section>
-
-    <footer>
+  <footer>
      <div class="left">
      <p>MD SAHAJAMAN HOQUE</p>
     <p>House Master</p>
@@ -104,10 +103,9 @@
       <div class="center">
       <p>UJJOINY ROY</p>
        <p>House Coordinator</p>
-      </div>
-    <div class="right">
-     <p>MANAB KUMAR DEY</p>
-        <p>Principal</p>
+    </div>
+ <div class="right">
+ <p>MANAB KUMAR DEY</p>    <p>Principal</p>
      </div>
 </footer>
 </body>
